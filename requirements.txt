@@ -1,0 +1,31 @@
+# Vision
+ultralytics==8.3.0
+supervision==0.20.0
+torch
+torchvision
+torchaudio
+
+# Audio
+tensorflow==2.15.0
+tensorflow-hub
+librosa
+soundfile
+
+# NLP / Summarization
+transformers==4.44.0
+accelerate
+bitsandbytes
+
+# Graph & Visualization
+networkx==3.3
+scipy
+matplotlib
+pyvis
+
+# Evaluation
+bert-score
+
+# General
+numpy
+pandas
+opencv-python
